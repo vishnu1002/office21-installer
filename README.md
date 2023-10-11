@@ -1,5 +1,6 @@
 # Microsoft Office LTSC Professional Plus 2021
-Microsoft Office 2021 Installer using Office Deployment Tool 
+
+How to run:
 
 - Close all Office apps
 - Connect to the Internet
